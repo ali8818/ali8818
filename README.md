@@ -16,25 +16,16 @@
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="30" height="30"/>
 
 ### 📫 Kontaktlarim :
-<a href="https://www.linkedin.com/in/g-ulom-olloberganov-b37686311/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="mailto:gulomolloberganov26@gmail.com" target="_blank">
+<a href="mailto:muhammadtuychiboyev.edu@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
-<a href="https://web.telegram.org/k/" target="_blank">
+<a href="https://t.me/@Muhammadali_live" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-</a>
-<a href="https://leetcode.com/u/iggymaclay/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-F9C13C?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
 </a>
 
 </div>
